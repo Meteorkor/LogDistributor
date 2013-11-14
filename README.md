@@ -15,6 +15,6 @@ LogDistributor
 
 생각보다 속도 차이가 없어서..
 (한줄씩 다 파싱하여 분산하기에..)
-DB를 사용해볼까 생각중..
+DB를 사용해볼까 생각중..<br>
 (통계내기도 편리할듯..)
 File(all) -> DB(all) -> Files(date)
